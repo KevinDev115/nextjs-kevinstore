@@ -17,12 +17,15 @@
       "@logos/*": [
         "assets/logos/*"
       ],
-      "@content/*": [
-        "content/*"
+      "@context/*": [
+        "context/*"
       ],
       "@styles/*": [
         "styles/*"
-      ]
+      ],
+      "@hooks/*": [
+        "hooks/*"
+      ],
     }
   }
 }
