@@ -1,5 +1,10 @@
 import ProductList from '@containers/ProductList';
 
 export default function Home() {
-  return <ProductList />;
+  return (
+    <>
+      <title>Next Shop</title>
+      <ProductList />
+    </>
+  );
 }
